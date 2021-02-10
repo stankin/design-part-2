@@ -11,6 +11,6 @@
 * [ИДБ-17-06](https://github.com/stankin/design-part-2/wiki/list-idb-17-06) 
 * [ИДБ-17-07](https://github.com/stankin/design-part-2/wiki/list-idb-17-07)
 
-[Задание в ЭОС](https://edu.stankin.ru/mod/assign/view.php?id=105070) для загрузки курсовых проектов
+[Шаблон](https://github.com/stankin/design-part-2/wiki/cp-template) и [задание в ЭОС](https://edu.stankin.ru/mod/assign/view.php?id=105070) для загрузки курсовых проектов
 
 Материалы [осеннего семестра](https://github.com/stankin/design-part-1)
